@@ -5,15 +5,6 @@
 1. Create, connect to, and manipulate a SQLite database using ActiveRecord.
 
 ## Setup
-
-We're going to use the `activerecord` gem to create a mapping between our
-database and model. Clone down this lesson and code-along to get to the
-solution.
-
-## Migrations
-
-From [the _RailsGuides_ section on Migrations][guide-migrations]:
-
 > Migrations are a convenient way for you to alter your database in a structured
 > and organized manner. You could edit fragments of SQL by hand but you would
 > then be responsible for telling other developers that they need to go and run
